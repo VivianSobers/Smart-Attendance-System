@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files
+*.db
+*.sqlite3
+
+# Captured images / temp photos
+live_snap.jpg
+*.png
+*.jpeg
+
+# Logs
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Document files
+*.pdf

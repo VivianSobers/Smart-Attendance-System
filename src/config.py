@@ -1,0 +1,9 @@
+DB_PATH = "data/attendance.db"
+STUDENT_DB = "student_db"
+CAPTURES = "captures"
+
+CONFIDENCE_THRESHOLD = 80
+CAMERA_INDEX = 0
+
+SERIAL_PORT = "COM3"
+BAUD_RATE = 9600
