@@ -66,6 +66,7 @@ Blue LED  → D3
 Buzzer    → D9
 ```
 
+**To view circuit: [Click here to view on Wokwi](https://wokwi.com/projects/461017505950764033)**
 ---
 
 ## Software Stack
