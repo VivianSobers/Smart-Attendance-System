@@ -67,6 +67,9 @@ Buzzer    → D9
 ```
 
 **To view circuit: [Click here to view on Wokwi](https://wokwi.com/projects/461017505950764033)**
+
+<img width="1545" height="1030" alt="Screenshot 2026-04-11 at 8 30 59 PM" src="https://github.com/user-attachments/assets/6762d7cc-4d0a-4c5b-801f-c97f13befa61" />
+
 ---
 
 ## Software Stack
