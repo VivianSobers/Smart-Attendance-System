@@ -1,5 +1,14 @@
 # Smart Attendance System — RFID + Face Recognition
 
+![IoT](https://img.shields.io/badge/IoT-RFID%20%2B%20Sensors-FF6F00?style=for-the-badge)
+![Language](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded](https://img.shields.io/badge/Arduino-Hardware%20Layer-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/OpenCV-Face%20Detection-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![AI](https://img.shields.io/badge/DeepFace-Facial%20Recognition-8E44AD?style=for-the-badge)
+![Database](https://img.shields.io/badge/SQLite-Local%20Storage-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Security](https://img.shields.io/badge/Auth-RFID%20%2B%20Face-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Field%20Ready-brightgreen?style=for-the-badge)
+
 An automated attendance system that combines RFID identification with real-time facial recognition. A card tap triggers identity verification via webcam, and the result is logged to a local database — no manual entry required.
 
 ---
