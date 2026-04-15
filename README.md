@@ -13,10 +13,10 @@ An automated attendance system that combines RFID identification with real-time 
 
 ---
 ## Documentation
-| Document | Description |
-|----------|-------------|
-| [README.md](./README.md) | Project overview, setup, and usage |
-| [Report.md](./Report.md) | Linear Algebra pipeline — matrix representation, normalisation, orthogonal projection |
+
+[![README](https://img.shields.io/badge/README-Project%20Overview-blue?style=for-the-badge)](./README.md)
+[![Report](https://img.shields.io/badge/Report-Linear%20Algebra%20Pipeline-green?style=for-the-badge)](./Report.md)
+
 ---
 ## How It Works
 
