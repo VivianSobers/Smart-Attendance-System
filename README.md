@@ -12,7 +12,12 @@
 An automated attendance system that combines RFID identification with real-time facial recognition. A card tap triggers identity verification via webcam, and the result is logged to a local database — no manual entry required.
 
 ---
-
+## 📑 Documentation
+| Document | Description |
+|----------|-------------|
+| [README.md](./README.md) | Project overview, setup, and usage |
+| [Report.md](./Report.md) | Linear Algebra pipeline — matrix representation, normalisation, orthogonal projection |
+---
 ## How It Works
 
 ```
