@@ -5,7 +5,7 @@
 ![Embedded](https://img.shields.io/badge/Arduino-Hardware%20Layer-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/OpenCV-Face%20Detection-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![AI](https://img.shields.io/badge/DeepFace-Facial%20Recognition-8E44AD?style=for-the-badge)
-![Database](https://img.shields.io/badge/SQLite-Local%20Storage-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Database](https://img.shields.io/badge/SQLite-Local%20Storage-Supervisor?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Security](https://img.shields.io/badge/Auth-RFID%20%2B%20Face-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Field%20Ready-brightgreen?style=for-the-badge)
 
@@ -15,7 +15,7 @@ An automated attendance system that combines RFID identification with real-time 
 ## Documentation
 
 [![README](https://img.shields.io/badge/README-Project%20Overview-blue?style=for-the-badge)](./README.md)
-[![Report](https://img.shields.io/badge/Report-Linear%20Algebra%20Pipeline-green?style=for-the-badge)](./Report.md)
+[![Report](https://img.shields.io/badge/Report-Linear%20Algebra%20Pipeline-critical?style=for-the-badge)](./Report.md)
 
 ---
 ## How It Works
