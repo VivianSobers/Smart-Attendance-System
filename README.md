@@ -8,6 +8,7 @@
 ![Database](https://img.shields.io/badge/SQLite-Local%20Storage-Supervisor?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Security](https://img.shields.io/badge/Auth-RFID%20%2B%20Face-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Field%20Ready-brightgreen?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-MIT-004D40?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 An automated attendance system that combines RFID identification with real-time facial recognition. A card tap triggers identity verification via webcam, and the result is logged to a local database — no manual entry required.
 
