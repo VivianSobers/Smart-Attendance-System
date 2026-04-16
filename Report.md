@@ -15,7 +15,7 @@
 | Aryan Upadhyay | PES1UG25CS806 | Core Dev |
 
 ---
-
+ 
 ## ◈ Problem Statement
 
 Manual attendance is slow and prone to proxy marking. This project solves that by pairing **RFID card identification** with **real-time face verification**. When a student taps their card, the system reads their identity and immediately captures a live photo. A linear algebra pipeline then compares the live face against a stored reference image. The outcome — **Present** or **Rejected** — is logged to a database and displayed on the Arduino's OLED screen.
