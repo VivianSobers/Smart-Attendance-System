@@ -1,22 +1,22 @@
 # Smart Attendance System — RFID + Face Recognition
 
-![IoT](https://img.shields.io/badge/IoT-RFID%20%2B%20Sensors-FF6F00?style=for-the-badge)
-![Language](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Embedded](https://img.shields.io/badge/Arduino-Hardware%20Layer-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/OpenCV-Face%20Detection-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![AI](https://img.shields.io/badge/DeepFace-Facial%20Recognition-8E44AD?style=for-the-badge)
-![Database](https://img.shields.io/badge/SQLite-Local%20Storage-Supervisor?style=for-the-badge&logo=sqlite&logoColor=white)
-![Security](https://img.shields.io/badge/Auth-RFID%20%2B%20Face-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Field%20Ready-brightgreen?style=for-the-badge)
-[![License](https://img.shields.io/badge/License-MIT-004D40?style=for-the-badge)](https://opensource.org/licenses/MIT)
+![IoT](https://img.shields.io/badge/IoT-RFID%20%2B%20Sensors-BF360C?style=for-the-badge&labelColor=FF9800)
+![Language](https://img.shields.io/badge/Python-Automation-0D47A1?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=42A5F5)
+![Embedded](https://img.shields.io/badge/Arduino-Hardware%20Layer-006064?style=for-the-badge&logo=arduino&logoColor=white&labelColor=26C6DA)
+![Computer%20Vision](https://img.shields.io/badge/OpenCV-Face%20Detection-AD1457?style=for-the-badge&logo=opencv&logoColor=white&labelColor=FF4081)
+![AI](https://img.shields.io/badge/DeepFace-Facial%20Recognition-4A148C?style=for-the-badge&labelColor=9C27B0)
+![Database](https://img.shields.io/badge/SQLite-Local%20Storage-263238?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=78909C)
+![Security](https://img.shields.io/badge/Auth-RFID%20%2B%20Face-1B5E20?style=for-the-badge&labelColor=43A047)
+![Status](https://img.shields.io/badge/Status-Field%20Ready-6B3E3E?style=for-the-badge&labelColor=A97171)
 
 An automated attendance system that combines RFID identification with real-time facial recognition. A card tap triggers identity verification via webcam, and the result is logged to a local database — no manual entry required.
 
 ---
 ## Documentation
 
-[![README](https://img.shields.io/badge/README-Project%20Overview-blue?style=for-the-badge)](./README.md)
-[![Report](https://img.shields.io/badge/Report-Linear%20Algebra%20Pipeline-critical?style=for-the-badge)](./Report.md)
+[![README](https://img.shields.io/badge/README-Project%20Overview-0D47A1?style=for-the-badge&labelColor=42A5F5)](./README.md)
+[![Report](https://img.shields.io/badge/Report-Linear%20Algebra%20Pipeline-8B0000?style=for-the-badge&labelColor=C62828)](./Report.md)
+
 
 ---
 ## How It Works
