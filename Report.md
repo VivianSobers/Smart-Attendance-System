@@ -5,15 +5,14 @@
 
 ---
 
-## ◈ Team Registry
+## ◈ Team Details
 
-| Name | SRN | Role |
-|:---|:---|:---|
-| D Harikrishnan | PES1UG24CS136 | Core Dev |
-| Dhawal Pathak | PES1UG24CS151 | Core Dev |
-| Vivian Sobers E | PES1UG24CS901 | Core Dev |
-| Aryan Upadhyay | PES1UG25CS806 | Core Dev |
-
+| Name | SRN |
+|:---|:---|
+| D Harikrishnan | PES1UG24CS136 |
+| Dhawal Pathak | PES1UG24CS151 |
+| Vivian Sobers E | PES1UG24CS901 |
+| Aryan Upadhyay | PES1UG25CS806 |
 ---
  
 ## ◈ Problem Statement
